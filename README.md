@@ -9,8 +9,8 @@ To run this script, you need to install the required Python packages. You can do
 1. **Clone the Repository** (if not already done):
 
    ```shell
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone [<repository-url>](https://github.com/kshitiz305/Future_List_Zerodha.git)
+   cd Future_List_Zerodha
 
 2. **Install Required Packages:**
 
